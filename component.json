@@ -1,0 +1,10 @@
+{
+  "name": "filter-builder",
+  "repo": "Wizcorp/filter-builder",
+  "description": "Build programmable object property filters.",
+  "version": "0.0.2",
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js"
+}
